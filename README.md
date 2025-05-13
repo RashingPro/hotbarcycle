@@ -1,5 +1,5 @@
 # Fork info
-This fork made to add 1.21.5 support of mod. [Original mod](https://github.com/nyuppo/hotbarcycle)
+This fork made to add 1.21.5 support. [Original mod](https://github.com/nyuppo/hotbarcycle)
 # HotbarCycle
 Minecraft Fabric mod for Stardew Valley-inspired hotbar cycling. Developed for 1.19.
 
